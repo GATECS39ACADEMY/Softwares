@@ -7,4 +7,14 @@ A Collection of useful softwares for various subjects
 
 **Database visualizer:** DB Visualizer
 
-**DataStructures and  Algorithms Visualizers :** [Websites](https://starksources.github.io/myblog/useful/tutorial/2018/12/09/what-is-the-best-way-to-learn-an-algorithm_.html)
+**C,DataStructures and  Algorithms Visualizers :** [Websites](https://starksources.github.io/myblog/useful/tutorial/2018/12/09/what-is-the-best-way-to-learn-an-algorithm_.html)
+
+**Digital Logic**: Logisim Tool
+
+**Operating Systems:** Windows PC
+
+**Computer Networks:** Wireshark & Algo Visualizer
+
+**Computer Organization:** Virtual Labs
+
+
